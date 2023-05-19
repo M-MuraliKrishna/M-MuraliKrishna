@@ -47,8 +47,8 @@
 
 
 
-<details>
-<p align="left">
+
+<p>
   <a href="https://github.com/M-MuraliKrishna">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-MuraliKrishna&theme=transparent" />
   </a>
@@ -58,32 +58,35 @@
   <a href="https://github.com/M-MuraliKrishna">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-MuraliKrishna&theme=transparent" />
   </a>
-</p>
- <p align="right">
+
   <a href="https://github.com/M-MuraliKrishna">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-MuraliKrishna&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-MuraliKrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-MuraliKrishna&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> -->
+  </a>
+  <a href="https://github.com/M-MuraliKrishna">
+    <img src="https://github-profile-trophy.vercel.app/?username=M-MuraliKrishna&theme=transparent&no-frame=true&no-bg=true&color=transparent&margin-w=3" />
   </a>
 </p>
-</details>
 
 
-<!-- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M-MuraliKrishna&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=M-MuraliKrishna&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-MuraliKrishna&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=M-MuraliKrishna&theme=radical&no-frame=true&no-bg=true&margin-w=3)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=M-MuraliKrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=M-MuraliKrishna&theme=transparent&hide_border=true) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-MuraliKrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=M-MuraliKrishna&theme=transparent&no-frame=true&no-bg=true&margin-w=3) -->
+
+
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-MuraliKrishna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme -->
+![](https://github-contributor-stats.vercel.app/api?username=M-MuraliKrishna&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+ -->
+<!-- ### 😂 Random Dev Meme -->
 <!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
