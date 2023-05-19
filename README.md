@@ -47,7 +47,25 @@
 
 
 
+<details>
+<p align="center">
+  <a href="https://github.com/M-MuraliKrishna">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-MuraliKrishna&theme=transparent" />
+  </a>
+  <a href="https://github.com/M-MuraliKrishna">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-MuraliKrishna&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/M-MuraliKrishna">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-MuraliKrishna&theme=transparent" />
+  </a>
+  <a href="https://github.com/M-MuraliKrishna">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-MuraliKrishna&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 
+
+<!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=M-MuraliKrishna&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M-MuraliKrishna&theme=react&hide_border=true)
@@ -63,7 +81,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=M-MuraliKrishna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme -->
 <!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
