@@ -12,9 +12,15 @@
 - 📫 How to reach me **murali890477@gmail.com**
 
 
+## 🌐 Websites I Designed and Developed:
+[![Poorvi Infinite](https://www.poorviinfinite.com/fav.jpg?Color=white)](https://www.poorviinfinite.com/)  Poorvi Infinite
+[![India Estates](https://v2.indiaestates.in/public/images/favicon.svg?Color=white)](https://v2.indiaestates.in/)  India Estates
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/murali-krishna-m/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@murali890477) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14952983/murali) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/murali890477) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/murali-krishna-m/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@murali890477) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14952983/murali) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/murali890477)
+
+
 
 # 💻 Tech Stack:
 <p align="left"> 
