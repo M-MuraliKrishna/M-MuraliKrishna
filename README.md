@@ -14,7 +14,7 @@
 
 ## 🌐 Websites I Designed and Developed:
 [![Poorvi Infinite](https://www.poorviinfinite.com/fav.jpg?Color=white)](https://www.poorviinfinite.com/)  Poorvi Infinite
-[![India Estates](https://v2.indiaestates.in/public/images/favicon.svg?Color=white)](https://v2.indiaestates.in/)  India Estates
+[![India Estates](https://v2.indiaestates.in/public/images/favicon.svg?Color=white)](https://www.indiaestates.in/)  India Estates
 
 
 ## 🌐 Socials:
