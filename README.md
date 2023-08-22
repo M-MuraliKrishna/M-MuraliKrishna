@@ -7,14 +7,15 @@
 
 - 🌱 I’m currently learning **Java , React**
 
-- 💬 Ask me about **DSA, HTML5, CSS3, JAVA, PHP, MySQL**
+- 💬 Ask me about **DSA, HTML5, CSS3, JAVA, PHP, MySQL, Python**
 
-- 📫 How to reach me **murali890477@gmail.com**
+- 📫 How to reach me **mmuralikrishnammm@gmail.com**
 
 
 ## 🌐 Websites I Designed and Developed:
 [![Poorvi Infinite](https://www.poorviinfinite.com/fav.jpg?Color=white)](https://www.poorviinfinite.com/)  Poorvi Infinite
-[![India Estates](https://v2.indiaestates.in/public/images/favicon.svg?Color=white)](https://www.indiaestates.in/)  India Estates
+[![India Estates](https://indiaestates.in/public/images/favicon.svg?Color=white)](https://www.indiaestates.in/)  India Estates
+[![GR Sitara](https://grsitara-bangalore.co.in/images/favicon.png?Color=white)](https://grsitara-bangalore.co.in/)  GR Sitara
 
 
 ## 🌐 Socials:
