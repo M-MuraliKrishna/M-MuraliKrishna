@@ -13,9 +13,9 @@
 
 
 ## 🌐 Websites I Designed and Developed:
-<a href="https://www.poorviinfinite.com/" target="_blank" rel="noreferrer" > <img src="https://www.poorviinfinite.com/fav.jpg" alt="Poorvi Infinite" title='Poorvi Infinite' width="40" height="40"/>  </a> 
+<a href="https://www.poorviinfinite.com/" target="_blank" rel="noreferrer" style="magrin-right:20px" > <img src="https://www.poorviinfinite.com/fav.jpg" alt="Poorvi Infinite" title='Poorvi Infinite' width="40" height="40"/>  </a> 
 <a href="https://www.indiaestates.in/" target="_blank" rel="noreferrer" > <img src="https://www.indiaestates.in/public/images/logo_white.svg" alt="India Estates" title='India Estates' width="70" height="50"/>  </a> 
-<a href="https://grsitara-bangalore.co.in" target="_blank" rel="noreferrer" > <img src="https://grsitara-bangalore.co.in/images/GR_Sitara.webp" alt="GR Sitara" title='GR Sitara' width="80" height="50"/>  </a> 
+<a href="https://grsitara-bangalore.co.in" target="_blank" rel="noreferrer" > <img src="https://grsitara-bangalore.co.in/images/GR_Sitara.webp" alt="GR Sitara" title='GR Sitara' width="90" height="50"/>  </a> 
 <a href="https://v2.abheeventures.com/" target="_blank" rel="noreferrer" > <img src="https://abheeventures.com/assets/img/favicon.svg" alt="Abhee Ventures" title='Abhee Ventures' width="70" height="50"/>  </a> 
 <a href="https://abhee-celestial.abheeventures.com/" target="_blank" rel="noreferrer" > <img src="https://abhee-celestial.abheeventures.com/assets/images/hero_logo.svg" alt="Abhee Celestial" title='Abhee Celestial' width="70" height="50"/>  </a> 
 
