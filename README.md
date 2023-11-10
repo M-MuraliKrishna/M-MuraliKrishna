@@ -16,7 +16,7 @@
 - [![Poorvi Infinite](https://www.poorviinfinite.com/fav.jpg?Color=white)](https://www.poorviinfinite.com/)  Poorvi Infinite
 - [![India Estates](https://indiaestates.in/public/images/favicon.svg?Color=white)](https://www.indiaestates.in/)  India Estates
 - [![GR Sitara](https://grsitara-bangalore.co.in/images/favicon.png?Color=white)](https://grsitara-bangalore.co.in/)  GR Sitara
-- [![Abhee Ventures](https://abheeventures.com/assets/img/favicon.svg?Color=white)](https://abheeventures.com/)  Abhee Ventures & [V2 Abhee Ventures](https://v2.abheeventures.com/) 
+- [![Abhee Ventures](https://abheeventures.com/assets/img/favicon.svg?Color=white&width='10px')](https://abheeventures.com/)  Abhee Ventures & [V2 Abhee Ventures](https://v2.abheeventures.com/) 
 - [![Abhee Ventures](https://abheeventures.com/assets/img/favicon.svg?Color=white)](https://abhee-celestial.abheeventures.com/) Abhee Celestial 
 
 
